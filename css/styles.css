@@ -33,6 +33,10 @@ body {
     color: floralwhite;
 }
 
+#reservebtn:hover {
+    text-decoration: none;
+}
+
 .address {
     font-size: 100%;
     margin: 0px;
