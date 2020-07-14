@@ -49,3 +49,7 @@ body {
     padding: 10px;
     border-bottom: 1px solid #ddd;
 }
+
+#login:hover {
+    cursor: pointer;
+}
